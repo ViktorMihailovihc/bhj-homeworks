@@ -8,3 +8,15 @@ textarea {
   border: 1px solid #e2e2e2;
   box-sizing: border-box;
 }
+.clear__button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;  
+  color: #ffffff;
+  background: #e00000;
+  cursor: pointer;
+}
+
+.clear__button:hover {
+  opacity: 0.7;
+}
